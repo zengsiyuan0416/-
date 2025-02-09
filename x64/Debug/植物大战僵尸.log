@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(99,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(148,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(178,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(179,151): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(179,118): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(158,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(232,46): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(232,29): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(323,9): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(324,9): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(340,19): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(342,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(415,36): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(417,18): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(418,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(445,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(445,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(446,67): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(446,42): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(842,44): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(842,32): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(861,38): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(861,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(877,49): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\theo\source\repos\植物大战僵尸\植物大战僵尸\main.cpp(877,35): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  植物大战僵尸.vcxproj -> C:\Users\theo\source\repos\植物大战僵尸\x64\Debug\植物大战僵尸.exe
